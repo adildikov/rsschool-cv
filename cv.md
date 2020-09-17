@@ -8,7 +8,7 @@
    <header>
       <a href="#top"
         ><img
-          src="{% static 'main/image/main_logo_nobg.png' %}"
+          src="main/image/main_logo_nobg.png"
           alt="Logo"
           class="logo_header"
       /></a>
