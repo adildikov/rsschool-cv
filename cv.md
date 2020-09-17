@@ -48,3 +48,5 @@
     </header>
    ```
 1. I have only basic knowledge from the university. Didn't work anywhere, Took **HTMLAcademy** initial courses.
+1. I study at _TVGU_, finished the subject of web development.
+1. I studied English only at school, did not attend additional courses. Knowledge of the language - _**Pre-Intermediate**_.
