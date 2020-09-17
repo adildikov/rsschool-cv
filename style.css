@@ -1,0 +1,14 @@
+body {
+  background-image: url(background28.jpg);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.head_img {
+  max-width: 30%;
+  height: auto;
+  position: relative;
+  left: 36%;
+  top: 4%;
+  padding-top: 0%;
+}
